@@ -9,21 +9,21 @@ body{
   box-shadow:0 0 10px 5px rgba(221, 221, 221, 1);/* тень*/
  
 }
-.name {
+.Name {
 	 text-align: center;
 
 }
 .center {
-	display:block;
+	/*display:block;*/
     border-radius:10px;
-	margin:0px 100px 10px;
+	margin:0px auto;/*100px 10px;*/
 }
 .celi{
 border-top :1px solid black;
 	border-bottom:1px solid black;
 	line-height: 1.5;
 }
-.contact,.profil{
+.contact,.url contact{
 	line-height: 0.5;
 	padding: 5px ;
 }
