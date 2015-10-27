@@ -1,0 +1,40 @@
+body{
+	
+   font-family: Arial,Times New Roman,serif;
+   font-weight: 400;
+   line-height:2;
+  font-size: 12px;
+  margin:5px 300px 30px 300px;
+  padding:0px 40px;	
+  box-shadow:0 0 10px 5px rgba(221, 221, 221, 1);/* тень*/
+ 
+}
+.div {
+	 text-align: center;
+
+}
+.center {
+	display:block;
+    border-radius:10px;
+	margin:0px 100px 10px;
+}
+.div1{
+border-top :1px solid black;
+	border-bottom:1px solid black;
+	line-height: 1.5;
+}
+.contact,.profil{
+	line-height: 0.5;
+	padding: 5px ;
+}
+
+.div4{
+	border-top :2px solid grey;
+	line-height: 0.5;
+	padding: 5px;
+}
+
+   
+	
+
+	
