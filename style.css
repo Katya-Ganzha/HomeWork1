@@ -9,7 +9,7 @@ body{
   box-shadow:0 0 10px 5px rgba(221, 221, 221, 1);/* тень*/
  
 }
-.div {
+.name {
 	 text-align: center;
 
 }
@@ -18,7 +18,7 @@ body{
     border-radius:10px;
 	margin:0px 100px 10px;
 }
-.div1{
+.celi{
 border-top :1px solid black;
 	border-bottom:1px solid black;
 	line-height: 1.5;
@@ -28,7 +28,7 @@ border-top :1px solid black;
 	padding: 5px ;
 }
 
-.div4{
+.deviz{
 	border-top :2px solid grey;
 	line-height: 0.5;
 	padding: 5px;
